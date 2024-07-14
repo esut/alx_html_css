@@ -48,7 +48,7 @@ main {
 }
 
 section {
-  background-color: #fff;
+  background-color: blueviolet;
   padding: 20px;
   margin-bottom: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -72,5 +72,9 @@ h3 {
 }
 
 
-
-
+img {
+  width: 150px; 
+  height: 150px; 
+  border-radius: 50%; 
+  overflow: hidden; 
+}
